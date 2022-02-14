@@ -1,7 +1,7 @@
 const axios = require("axios")
 const fs = require("fs")
 const yargs = require('yargs');
-const cookie = ""
+const cookie = "node missevan_drama_download.js 16730"
 
 
 
